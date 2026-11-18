@@ -1,0 +1,14 @@
+{
+  "name": "metrics-cardinality-controller",
+  "version": "1.0.0",
+  "description": "高基数指标 label 基数控制器：稳定哈希 bucket、预算聚合降级与确定性采样",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
